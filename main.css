@@ -1,0 +1,167 @@
+h1 {
+	font-family: 'Crimson Text', serif;
+}
+
+
+
+
+.navlist {
+	text-align:right;
+}
+
+li {
+	display:inline;
+	margin-right:15px;
+}
+
+
+.firstlogo {
+	margin:0 auto;
+}
+
+
+.logo {
+	height:100px;
+	width:130px;
+}
+
+
+header {
+	text-align:center;
+	width:80%;
+	margin:0 auto;
+}
+
+
+.products {
+	margin:0 auto;
+	text-align: center;
+
+}
+
+
+.divone {
+	width:20%;
+	display:inline-block;
+	text-align:center;
+	margin:10px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	background-color:#DDDDDD;
+	border-radius:10px;
+}
+
+
+
+.entre {
+	text-align:center;
+	margin: 0 auto;
+
+}
+
+.millions
+	{
+		text-align: center;
+		margin: 0 auto;
+		width:70%;
+	}
+
+.footer {
+	text-align: center;
+}
+
+h4 {
+	color:red;
+	font-family: Verdana, sans-serif;
+}
+
+.column {
+	width:500px;
+	text-align:left;
+}
+
+
+.manifesto {
+	width: 500px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.manifesto div div h3 {
+	font-size:30px;
+	margin-top:30px;
+}
+
+.manifesto div div h4 {
+	margin-left:30px;
+	margin-top:-60px;
+}
+
+.manifesto div div p {
+	margin-left:30px;
+	margin-top:-20px;
+}
+
+
+
+
+
+
+
+
+.rework {
+	width: 500px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.book {
+	float:left;
+	margin-right:20px;
+}
+
+.bookimage {
+	height:300px;
+	width:200px;
+}
+
+.quotes {
+	margin-left:30px;
+}
+
+
+
+
+
+
+
+.offerings {
+	margin: 0 auto;
+	text-align: center;
+
+}
+
+.main-offerings {
+	display:inline-block;
+}
+
+.offerlinks {
+	width:20%;
+	display:inline-block;
+	text-align:center;
+	margin:10px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	background-color:#DDDDDD;
+	border-radius:10px;
+	text-decoration:none;
+}
+
+
+
+
+
+
+
+
+
